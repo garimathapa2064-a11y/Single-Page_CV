@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#container {
+margin: 20px;
+padding: 5% 20%;
+border: 2px solid #000;
+}
+
+.color-blue {
+  color: #0775fc;
+}
+
+.color-green {
+  color: #6fba6f;
+}   
+
+.color-green {
+  color: #034e03;
+}
+*{
+    background-image: url(../../../CrossDevice/Redmi Note 11S/storage/DCIM/Camera/IMG_20260405_123839.jpg);
+}
